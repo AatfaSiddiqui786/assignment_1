@@ -1,0 +1,18 @@
+.header {
+    background-color: #e24a7f;
+    color: rgb(172, 22, 32);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  
+  
+  .navList {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .navList li {
+    display: inline;
+    margin: 0 15px;
+  }
